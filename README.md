@@ -1,1 +1,1 @@
-# Striver-s-DSA-Sheet
+# Striver DSA Sheet
