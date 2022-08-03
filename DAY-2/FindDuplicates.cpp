@@ -9,3 +9,4 @@ int findDuplicate(vector<int>& nums) {
         }
         return -1;
     }
+// we can also use linked list cycle method to detect the cycle.
