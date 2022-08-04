@@ -40,4 +40,4 @@ int uniquePaths(int m, int n) {
         return prev[n-1];
     }
 
-// this is also a combination process m-1 steps down and n-1 steps right find combination (m+n)!/m!*n!, just maken sure interger doesn't overflow
+// this is also a combination process m-1 steps down and n-1 steps right find combination (m-1+n-1)!/m-1!*n-1!, just maken sure interger doesn't overflow
