@@ -1,4 +1,9 @@
+// few methods
+// for each node traverse in second list to see if it present O(n*m)
+// use hashing to store nodes and one and then search fror other one O(n+m), O(n)
+// calculate length O(2max(length of list1,length of list2))+O(abs(length of list1-length of list2))+O(min(length of list1,length of list2))
 
+// O(2*max(length of list1,length of list2)),O(1)
 ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
         if(headA == headB)
             return headA;
