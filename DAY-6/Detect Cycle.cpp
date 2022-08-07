@@ -1,3 +1,6 @@
+// use hashtable O(n) O(n)
+
+// O(n)
 bool hasCycle(ListNode *head) {
         ListNode* slow = head;
         ListNode* fast = head;
