@@ -1,4 +1,4 @@
-
+O(N+(N/k)*k)),O(1)
  ListNode* reverseKGroup(ListNode* head, int k) {
         if(head == NULL || head->next == NULL)
         {
