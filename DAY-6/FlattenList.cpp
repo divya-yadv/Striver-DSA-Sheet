@@ -1,4 +1,29 @@
 // we can minheap to sort
+// first push all N nodes using next
+// now minimum will be out first node
+// push bottom nodes, here if bottom is lesses for all of them it will be out next node otherwise some next pointer will be 
+// O(N*M*logN)
+//O(N) -> N nodes max at a time
+void flatten(Node* root)
+{
+    priority_queue<Node*, vector<Node*>, mycomp> p;
+  //pushing main link nodes into priority_queue.
+    while (root!=NULL) {
+        p.push(root);
+        root = root->next;
+    }
+    
+    while (!p.empty()) {
+      //extracting min
+        auto k = p.top();
+        p.pop();
+      //printing  least element 
+        cout << k->data << " ";
+        if (k->bottom)
+            p.push(k->bottom);
+    }
+     
+}
 
 // for tow lists merge -> O(N+M)
 // here we will be traversing all N , 2M, 3M, 4M ....N times == M(2+3+4+5 --N) = (N*N*M)
