@@ -1,4 +1,9 @@
-O(N+(N/k)*k)),O(1)
+// store k nodes in stack for every group and change links
+
+// reverse group recursively
+
+
+//O(N+(N/k)*k)),O(1)
  ListNode* reverseKGroup(ListNode* head, int k) {
         if(head == NULL || head->next == NULL)
         {
