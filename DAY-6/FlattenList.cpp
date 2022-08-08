@@ -1,5 +1,7 @@
 // we can minheap to sort
 
+// for tow lists merge -> O(N+M)
+// here we will be traversing all N , 2M, 3M, 4M ....N times == M(2+3+4+5 --N) = (N*N*M)
 //O(N*(N*M)) ->merging N lists that has nodes N*M,
 //O( N*M) ->store all in recursion stack
 Node* merge (Node* root1, Node* root2)
