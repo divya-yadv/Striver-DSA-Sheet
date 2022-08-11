@@ -21,3 +21,24 @@ void solve(vector<int> arr, int N, vector<int> &ans,int sum)
         solve(arr,N,ans,0);
         return ans;
     }
+
+
+// iterative solution
+vector<int> subsetSums(vector<int> arr, int N)
+    {
+        // Write Your Code here
+        vector<int> ans;
+        ans.push_back(0);
+    // iterate over all elements
+        for(int i=0;i<N;i++)
+        {
+            // add this to all elements that are already present in ans array, so that there will be both elements where you added the element and didn't add the element
+            int p = ans.size();
+           for(int j=0;j<p;j++)
+           {
+               ans.push_back(ans[j]+arr[i]);
+           }
+        }
+        sort(ans.begin(),ans.end());
+        return ans;
+    }
