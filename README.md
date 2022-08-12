@@ -1,92 +1,92 @@
 # Striver DSA Sheet
 
-## DAY-1: Arrays-I
+### DAY-1: Arrays-I
 - [x] 31/07/2022
 
-## Day-2: Arrays-II
+### Day-2: Arrays-II
 - [x] 04/08/2022
 
-## DAY-3: Arrays-III
+### DAY-3: Arrays-III
 - [x] 05/08/2022
-- [x] Reverse Pairs
+- Reverse Pairs
 
-## DAY-4: Arrays-IV
+### DAY-4: Arrays-IV
 - [x] 06/08/2022
-- [x] 4-sum
+- 4-sum
 
-## DAY-5: Linked List-I
-- [x] 07/08/2022
+### DAY-5: Linked List-I
+- 07/08/2022
 
-## DAY-6: Linked List-II
+### DAY-6: Linked List-II
 - [x] 08/08/2022
-- [x] Reverse in K-groups
+- Reverse in K-groups
 
-## DAY-7: Linked List and Arrays
+### DAY-7: Linked List and Arrays
 - [x] 09/08/2022
-- [x] Trapping Rainwater
+- Trapping Rainwater
 
-## DAY-8: Greedy
+### DAY-8: Greedy
 - [x] 10/08/2022
-- [x] Find Minimum no of Coins
+- Find Minimum no of Coins
 
-## DAY-9: Recursion
+### DAY-9: Recursion
 - [x] 12/08/2022
-- [x] Subset-II
+- Subset-II
 
-## DAY-10: Recursion and Backtracking
-- [x] 
+### DAY-10: Recursion and Backtracking
 
-## DAY-11: Binary Search
-- [x] 
 
-## DAY-12: Heaps
-- [x] 
+### DAY-11: Binary Search
+
+
+### DAY-12: Heaps
+ 
 
 ## DAY-13: Stack and Queues-I
-- [x] 
+ 
 
-## DAY-14: Stack and Queues-II
-- [x] 
+### DAY-14: Stack and Queues-II
 
-## DAY-15: Strings-I
-- [x] 
 
-## DAY-16: Strings-II
-- [x] 
+### DAY-15: Strings-I
+ 
 
-## DAY-17: Binary Tree-I
-- [x] 
+### DAY-16: Strings-II
+
+
+### DAY-17: Binary Tree-I
+
 
 ## DAY-18: Binary Tree-II
-- [x] 
 
-## DAY-19: Binary Tree-III
-- [x] 
 
-## DAY-20: Binary Search Tree-I
-- [x] 
+### DAY-19: Binary Tree-III
 
-## DAY-21: Binary Search Tree-II
-- [x] 
 
-## DAY-22: Binary Tree-Misc
-- [x] 
+### DAY-20: Binary Search Tree-I
 
-## DAY-23: Graph-I
-- [x] 
 
-## DAY-24: Graph-II
-- [x] 
+### DAY-21: Binary Search Tree-II
 
-## DAY-25: DP-I
-- [x] 
 
-## DAY-26: DP-II
-- [x] 
+### DAY-22: Binary Tree-Misc
 
-## DAY-27: Trie
-- [x] 
 
-## DAY-28: Segment Trees
-- [x] 
+### DAY-23: Graph-I
+
+
+### DAY-24: Graph-II
+
+
+### DAY-25: DP-I
+
+
+### DAY-26: DP-II
+
+
+### DAY-27: Trie
+
+
+### DAY-28: Segment Trees
+
 
