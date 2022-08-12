@@ -15,7 +15,7 @@
 - 4-sum
 
 ### DAY-5: Linked List-I
--[x] 07/08/2022
+- [x] 07/08/2022
 
 ### DAY-6: Linked List-II
 - [x] 08/08/2022
@@ -42,7 +42,7 @@
 ### DAY-12: Heaps
  
 
-## DAY-13: Stack and Queues-I
+### DAY-13: Stack and Queues-I
  
 
 ### DAY-14: Stack and Queues-II
@@ -57,7 +57,7 @@
 ### DAY-17: Binary Tree-I
 
 
-## DAY-18: Binary Tree-II
+### DAY-18: Binary Tree-II
 
 
 ### DAY-19: Binary Tree-III
