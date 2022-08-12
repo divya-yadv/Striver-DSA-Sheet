@@ -1,3 +1,5 @@
+// O(2^t * k)
+
 void solve(vector<int> candidates,int target, int i,vector<int>curr,vector<vector<int>>&res)
     {
         if(i == candidates.size())
