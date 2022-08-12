@@ -15,7 +15,7 @@
 - 4-sum
 
 ### DAY-5: Linked List-I
-- 07/08/2022
+-[x] 07/08/2022
 
 ### DAY-6: Linked List-II
 - [x] 08/08/2022
