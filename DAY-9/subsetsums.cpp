@@ -1,4 +1,4 @@
-//O(2^N) + O(2^N*log(2^N))->if sorting required
+/// O(2^N) + O(2^N*log(2^N))->if sorting required
 // O(2^N)->no of subsets
 void solve(vector<int> arr, int N, vector<int> &ans,int sum)
 {
