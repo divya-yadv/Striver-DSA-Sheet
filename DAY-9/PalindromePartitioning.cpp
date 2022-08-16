@@ -1,7 +1,7 @@
 // recursive solution
 // O(2^n*k*(n/2)) -> 2^n for all combinations , O(n/2) to check if its palindrome , O(K) is to insert it into a vector
 // O(k*x)
-
+// 
 
 bool isPalindrome(string s,int start,int end)
     {
@@ -40,3 +40,5 @@ bool isPalindrome(string s,int start,int end)
         solve(s,0,v,res);
         return res;
     }
+
+// can have a DP solutuin as well just by storing if already checked for particular substring
