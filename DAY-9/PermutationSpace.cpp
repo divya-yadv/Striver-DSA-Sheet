@@ -1,4 +1,3 @@
-
 // generate all permutaions 
 // sort them
 // O(N! * N)+N!*logN! --> N is to make a deep copy and then store it to vector res
@@ -29,3 +28,5 @@ void solve(string &s, vector<string>&res,int i)
         sort(res.begin(),res.end());
         return res[k-1];
     }
+
+// second solution maths
