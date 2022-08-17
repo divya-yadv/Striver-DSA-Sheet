@@ -32,9 +32,10 @@
 ### DAY-9: Recursion
 - [x] 16/08/2022
 - Subset-II
+- k-th permuation
 
 ### DAY-10: Recursion and Backtracking
-
+- [x] 17/08/2022
 
 ### DAY-11: Binary Search
 
