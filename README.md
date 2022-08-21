@@ -38,7 +38,7 @@
 - [x] 17/08/2022
 
 ### DAY-11: Binary Search
-
+- [x] 21/08/2022
 
 ### DAY-12: Heaps
  
