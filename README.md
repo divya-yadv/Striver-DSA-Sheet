@@ -41,7 +41,7 @@
 - [x] 21/08/2022
 
 ### DAY-12: Heaps
- 
+- [x] 21/08/2022
 
 ### DAY-13: Stack and Queues-I
  
