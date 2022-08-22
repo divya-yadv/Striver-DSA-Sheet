@@ -1,5 +1,5 @@
 
-#include<bits/stdc++.h>
+// O(N^2),O(N)
 void sortInsert(stack<int>&stack,int num)
 {
     if((stack.empty()) || ((!stack.empty())&& (stack.top()<num)))
