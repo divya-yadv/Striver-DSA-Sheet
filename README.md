@@ -8,31 +8,24 @@
 
 ### DAY-3: Arrays-III
 - [x] 05/08/2022
-- Reverse Pairs
 
 ### DAY-4: Arrays-IV
 - [x] 06/08/2022
-- 4-sum
 
 ### DAY-5: Linked List-I
 - [x] 07/08/2022
 
 ### DAY-6: Linked List-II
 - [x] 08/08/2022
-- Reverse in K-groups
 
 ### DAY-7: Linked List and Arrays
 - [x] 09/08/2022
-- Trapping Rainwater
 
 ### DAY-8: Greedy
 - [x] 10/08/2022
-- Find Minimum no of Coins
 
 ### DAY-9: Recursion
 - [x] 16/08/2022
-- Subset-II
-- k-th permuation
 
 ### DAY-10: Recursion and Backtracking
 - [x] 17/08/2022
