@@ -44,7 +44,7 @@
 - [x] 21/08/2022
 
 ### DAY-13: Stack and Queues-I
--[x] 22/08/2022
+- [x] 22/08/2022
 
 ### DAY-14: Stack and Queues-II
 
