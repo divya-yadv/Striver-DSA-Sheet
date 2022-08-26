@@ -1,4 +1,4 @@
-//O(N^2)
+//O(N^4)
 // check for every substring
 bool isPalindrome(string s,int i,int j)
     {
