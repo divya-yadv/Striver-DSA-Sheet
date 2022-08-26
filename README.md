@@ -43,7 +43,7 @@
 
 
 ### DAY-15: Strings-I
- 
+- [x] 26/08/2022
 
 ### DAY-16: Strings-II
 
