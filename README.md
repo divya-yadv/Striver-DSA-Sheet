@@ -46,7 +46,7 @@
 - [x] 26/08/2022
 
 ### DAY-16: Strings-II
-
+- [x] 27/08/2022
 
 ### DAY-17: Binary Tree-I
 
